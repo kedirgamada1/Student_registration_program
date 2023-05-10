@@ -3,7 +3,7 @@ print("Well Come To Registration Program.")
 # This program is created for the purpose of job application in the existing market.
 # The program accepts students and registers for class.
 import datetime
-autentication = {"user_name":"kedir", "pass_word":"kedir",
+autentication = {
 "user_name":"gamada", "pass_word":"gamada"
                  }
 profile = {}
