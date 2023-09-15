@@ -1,3 +1,4 @@
+# This is to check if I am doing good on git.
 print("Well Come To Registration Program.")
 # Author: Kedir G. Gamada
 # This program is created for the purpose of job application in the existing market.
